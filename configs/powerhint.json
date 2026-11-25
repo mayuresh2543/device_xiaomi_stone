@@ -165,79 +165,79 @@
     {
       "PowerHint": "INTERACTION",
       "Node": "CPUBigClusterMinFreq",
-      "Duration": 250,
+      "Duration": 150,
       "Value": "1228800"
     },
     {
       "PowerHint": "INTERACTION",
       "Node": "CPULittleClusterMinFreq",
-      "Duration": 250,
+      "Duration": 150,
       "Value": "1113600"
     },
     {
       "PowerHint": "INTERACTION",
       "Node": "UclampTAMin",
-      "Duration": 250,
+      "Duration": 150,
       "Value": "35"
     },
     {
       "PowerHint": "INTERACTION",
       "Node": "UclampFgMin",
-      "Duration": 250,
+      "Duration": 150,
       "Value": "15"
     },
     {
       "PowerHint": "INTERACTION",
       "Node": "UclampTALatency",
-      "Duration": 250,
+      "Duration": 150,
       "Value": "1"
     },
     {
       "PowerHint": "INTERACTION",
       "Node": "CPUBWMinFreq",
-      "Duration": 250,
+      "Duration": 150,
       "Value": "5161"
     },
     {
       "PowerHint": "INTERACTION",
       "Node": "CPUDDRLatLittleMinFreq",
-      "Duration": 250,
+      "Duration": 150,
       "Value": "5161"
     },
     {
       "PowerHint": "INTERACTION",
       "Node": "CPUDDRLatBigMinFreq",
-      "Duration": 250,
+      "Duration": 150,
       "Value": "5161"
     },
     {
       "PowerHint": "INTERACTION",
       "Node": "CPUDDRLatfloorLittleMinFreq",
-      "Duration": 250,
+      "Duration": 150,
       "Value": "5161"
     },
     {
       "PowerHint": "INTERACTION",
       "Node": "CPUDDRLatfloorBigMinFreq",
-      "Duration": 250,
+      "Duration": 150,
       "Value": "5161"
     },
     {
       "PowerHint": "INTERACTION",
       "Node": "L3LittleClusterMinFreq",
-      "Duration": 250,
+      "Duration": 150,
       "Value": "1171200000"
     },
     {
       "PowerHint": "INTERACTION",
       "Node": "L3BigClusterMinFreq",
-      "Duration": 250,
+      "Duration": 150,
       "Value": "1171200000"
     },
     {
       "PowerHint": "INTERACTION",
       "Node": "GPUMinFreq",
-      "Duration": 250,
+      "Duration": 150,
       "Value": "443000000"
     },
     {
@@ -345,7 +345,7 @@
       "PowerHint": "EXPENSIVE_RENDERING",
       "Node": "GPUMinFreq",
       "Duration": 0,
-      "Value": "650000000"
+      "Value": "443000000"
     },
     {
       "PowerHint": "EXPENSIVE_RENDERING",
